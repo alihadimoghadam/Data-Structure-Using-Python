@@ -1,0 +1,61 @@
+Foundational Algorithms
+1. Sorting Algorithms:
+   - Bubble Sort
+   - Selection Sort
+   - Insertion Sort
+   - Merge Sort
+   - Quick Sort
+   - Heap Sort
+
+2. Searching Algorithms:
+   - Linear Search
+   - Binary Search
+   - Depth First Search (DFS)
+   - Breadth First Search (BFS)
+
+Intermediate Algorithms
+1. Graph Algorithms:
+   - Dijkstra’s Algorithm (Shortest Path)
+   - Floyd-Warshall Algorithm (All-Pairs Shortest Path)
+   - Kruskal’s Algorithm (Minimum Spanning Tree)
+   - Prim’s Algorithm (Minimum Spanning Tree)
+   - Bellman-Ford Algorithm
+
+2. Divide and Conquer:
+   - Binary Search Tree Operations
+   - Merge Sort and Quick Sort
+
+3. Dynamic Programming:
+   - Fibonacci Sequence
+   - Longest Common Subsequence
+   - Knapsack Problem
+   - Matrix Chain Multiplication
+   - Coin Change Problem
+
+4. Greedy Algorithms:
+   - Activity Selection
+   - Huffman Coding
+   - Fractional Knapsack
+
+Advanced Algorithms
+1. String Algorithms:
+   - KMP (Knuth-Morris-Pratt) Pattern Matching
+   - Rabin-Karp Algorithm
+   - Longest Palindromic Substring
+   - Suffix Tree and Array
+
+2. Backtracking:
+   - N-Queens Problem
+   - Rat in a Maze
+   - Sudoku Solver
+
+3. Advanced Graph Algorithms:
+   - Tarjan’s Algorithm (Strongly Connected Components)
+   - Kosaraju’s Algorithm
+   - Edmonds-Karp (Max Flow)
+
+4. Other Topics:
+   - Trie (Prefix Tree) Operations
+   - Segment Trees
+   - Fenwick Trees (Binary Indexed Trees)
+   - Union-Find (Disjoint Set Union)
