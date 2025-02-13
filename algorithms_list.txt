@@ -22,7 +22,7 @@ Intermediate Algorithms
    - Bellman-Ford Algorithm ✅
 
 2. Divide and Conquer:
-   - Binary Search Tree Operations
+   - Binary Search Tree Operations ✅
    - Merge Sort and Quick Sort
 
 3. Dynamic Programming:
