@@ -30,7 +30,7 @@ Intermediate Algorithms
    - Longest Common Subsequence ✅
    - Knapsack Problem ✅
    - Matrix Chain Multiplication ✅
-   - Coin Change Problem
+   - Coin Change Problem ✅
 
 4. Greedy Algorithms:
    - Activity Selection
