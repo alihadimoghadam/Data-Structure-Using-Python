@@ -33,7 +33,7 @@ Intermediate Algorithms
    - Coin Change Problem ✅
 
 4. Greedy Algorithms:
-   - Activity Selection
+   - Activity Selection ✅
    - Huffman Coding
    - Fractional Knapsack
 
