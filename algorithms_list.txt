@@ -34,7 +34,7 @@ Intermediate Algorithms
 
 4. Greedy Algorithms:
    - Activity Selection ✅
-   - Huffman Coding
+   - Huffman Coding ✅
    - Fractional Knapsack
 
 Advanced Algorithms
