@@ -29,7 +29,7 @@ Intermediate Algorithms
    - Fibonacci Sequence ✅
    - Longest Common Subsequence ✅
    - Knapsack Problem ✅
-   - Matrix Chain Multiplication
+   - Matrix Chain Multiplication ✅
    - Coin Change Problem
 
 4. Greedy Algorithms:
