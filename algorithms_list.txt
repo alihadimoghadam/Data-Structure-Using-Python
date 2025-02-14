@@ -23,10 +23,10 @@ Intermediate Algorithms
 
 2. Divide and Conquer:
    - Binary Search Tree Operations ✅
-   - Merge Sort and Quick Sort
+   - Merge Sort and Quick Sort ✅
 
 3. Dynamic Programming:
-   - Fibonacci Sequence
+   - Fibonacci Sequence ✅
    - Longest Common Subsequence
    - Knapsack Problem
    - Matrix Chain Multiplication
