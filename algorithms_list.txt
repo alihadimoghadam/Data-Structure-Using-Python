@@ -27,7 +27,7 @@ Intermediate Algorithms
 
 3. Dynamic Programming:
    - Fibonacci Sequence ✅
-   - Longest Common Subsequence
+   - Longest Common Subsequence ✅
    - Knapsack Problem
    - Matrix Chain Multiplication
    - Coin Change Problem
