@@ -42,10 +42,10 @@ Advanced Algorithms
    - KMP (Knuth-Morris-Pratt) Pattern Matching ✅
    - Rabin-Karp Algorithm ✅
    - Longest Palindromic Substring ✅
-   - Suffix Tree and Array
+   - Suffix Tree and Array ✅
 
 2. Backtracking:
-   - N-Queens Problem
+   - N-Queens Problem ✅
    - Rat in a Maze
    - Sudoku Solver
 
