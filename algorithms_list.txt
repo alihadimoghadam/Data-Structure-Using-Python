@@ -55,7 +55,7 @@ Advanced Algorithms
    - Edmonds-Karp (Max Flow) ✅
 
 4. Other Topics:
-   - Trie (Prefix Tree) Operations
+   - Trie (Prefix Tree) Operations ✅
    - Segment Trees
    - Fenwick Trees (Binary Indexed Trees)
    - Union-Find (Disjoint Set Union)
