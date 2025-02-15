@@ -51,7 +51,7 @@ Advanced Algorithms
 
 3. Advanced Graph Algorithms:
    - Tarjan’s Algorithm (Strongly Connected Components) ✅
-   - Kosaraju’s Algorithm
+   - Kosaraju’s Algorithm ✅
    - Edmonds-Karp (Max Flow)
 
 4. Other Topics:
