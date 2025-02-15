@@ -50,7 +50,7 @@ Advanced Algorithms
    - Sudoku Solver ✅
 
 3. Advanced Graph Algorithms:
-   - Tarjan’s Algorithm (Strongly Connected Components)
+   - Tarjan’s Algorithm (Strongly Connected Components) ✅
    - Kosaraju’s Algorithm
    - Edmonds-Karp (Max Flow)
 
