@@ -47,7 +47,7 @@ Advanced Algorithms
 2. Backtracking:
    - N-Queens Problem ✅
    - Rat in a Maze ✅
-   - Sudoku Solver
+   - Sudoku Solver ✅
 
 3. Advanced Graph Algorithms:
    - Tarjan’s Algorithm (Strongly Connected Components)
