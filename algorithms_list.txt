@@ -56,6 +56,6 @@ Advanced Algorithms
 
 4. Other Topics:
    - Trie (Prefix Tree) Operations ✅
-   - Segment Trees
-   - Fenwick Trees (Binary Indexed Trees)
+   - Segment Trees ✅
+   - Fenwick Trees (Binary Indexed Trees) ✅
    - Union-Find (Disjoint Set Union)
