@@ -58,4 +58,4 @@ Advanced Algorithms
    - Trie (Prefix Tree) Operations ✅
    - Segment Trees ✅
    - Fenwick Trees (Binary Indexed Trees) ✅
-   - Union-Find (Disjoint Set Union)
+   - Union-Find (Disjoint Set Union) ✅
