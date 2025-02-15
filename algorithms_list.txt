@@ -39,7 +39,7 @@ Intermediate Algorithms
 
 Advanced Algorithms
 1. String Algorithms:
-   - KMP (Knuth-Morris-Pratt) Pattern Matching
+   - KMP (Knuth-Morris-Pratt) Pattern Matching ✅
    - Rabin-Karp Algorithm
    - Longest Palindromic Substring
    - Suffix Tree and Array
