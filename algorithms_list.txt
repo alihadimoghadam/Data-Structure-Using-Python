@@ -46,7 +46,7 @@ Advanced Algorithms
 
 2. Backtracking:
    - N-Queens Problem ✅
-   - Rat in a Maze
+   - Rat in a Maze ✅
    - Sudoku Solver
 
 3. Advanced Graph Algorithms:
